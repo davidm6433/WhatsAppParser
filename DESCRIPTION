@@ -1,0 +1,26 @@
+Package: WhatsR
+Type: Package
+Title: Parsing exported WhatsApp Textfiles as Dataframes
+Version: 0.1.0
+Date: 2018-03-15
+Author: Julian Kohne
+Maintainer: Julian Kohne <julian.kohne@gesis.org>
+Description: Creates a dataframe from an exported WhatsApp textfile containing one row per message with:
+    1) A timestamp of when the message was sent
+    2) The name of the sender (can be anonymized)
+    3) The body of the message. Linebreaks and Emojis are replaced with textual indicators
+    4) A list of Emojis contained in the message
+    5) A list of ASCII smilies contained in the message
+    6) An indicator stating whether media files were included in the message
+    7) A list of domains from sent links contained in the message
+    8) A lowercase list of words contained in the message with removed punctuation, numbers, Emojis and single characters
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends:
+    stringi (>= 1.1.6),
+    qdapRegex (>= 0.7.2),
+    readr (>= 1.1.1),
+    stringr (>= 1.3.0),
+    tokenizers (>= 0.1.4)
+RoxygenNote: 6.0.1

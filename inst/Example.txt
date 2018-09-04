@@ -1,0 +1,20 @@
+﻿29.01.18, 23:33 - Alice: Ist das hier ein Dummy Dataframe?
+29.01.18, 23:45 - Bob: Ja ist es!
+29.01.18, 23:45 - Bob: Der ist dazu da die funktionsweise des Parsers zu demonstrieren
+29.01.18, 23:46 - Alice: ‎PTT-20180129-WA0025.opus (Datei angehängt)
+29.01.18, 23:46 - Bob: Ah, er kann also auch Voicemail Daten erkennen!
+29.01.18, 23:46 - Bob: Das ist praktisch!
+29.01.18, 23:47 - Bob: Kann nicht schaden.
+29.01.18, 23:47 - Alice: ja😄
+29.01.18, 23:47 - Alice: und Emojis gehen auch!
+29.01.18, 23:47 - Bob: Was ist mit normalen Smilies?
+29.01.18, 23:49 - Alice: ‎Keine Ahnung, lass uns das doch mal ausprobieren
+29.01.18, 23:50 - Bob: Alles klar :) :D
+29.01.18, 23:51 - Alice: Scheint zu funktionieren!:P
+29.01.18, 23:51 - Bob: Meinst du das URLS auch erkannt werden?
+29.01.18, 23:52 - Bob: ‎Schick doch mal eine zum ausprobieren!
+29.01.18, 23:53 - Alice: https://www.linkedin.com/in/julian-kohne-19264b137/
+29.01.18, 23:58 - Alice: ‎Scheint zu funktionieren!
+29.01.18, 23:59 - Alice: Sehr schön!
+30.01.18, 00:00 - Alice: Damit sollten sich WhatsApp Verläufe besser quantifizieren lassen!
+30.01.18, 00:02 - Bob: ‎Alles klar, los gehts 😌😘
